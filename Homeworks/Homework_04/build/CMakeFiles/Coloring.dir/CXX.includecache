@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wheeltune/Dropbox/Education/MIPT/6semester/1C_IndustrialProgramming/Homeworks/Homework_03/colors.h
+
+/Users/wheeltune/Dropbox/Education/MIPT/6semester/1C_IndustrialProgramming/Homeworks/Homework_03/main.cpp
+iostream
+-
+colors.h
+/Users/wheeltune/Dropbox/Education/MIPT/6semester/1C_IndustrialProgramming/Homeworks/Homework_03/colors.h
+
