@@ -1,0 +1,7 @@
+[
+  "test_simple.py::TestSimple::()::test_operations",
+  "test_simple.py::TestSimple::()::test_append",
+  "test_simple.py::TestSimple::()::test_loop",
+  "test_simple.py::TestSimple::()::test_add",
+  "test_simple.py::TestSimple::()::test_mul"
+]
